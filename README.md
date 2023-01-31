@@ -18,6 +18,9 @@ heroku open
 
 
 
+
+
+
 heroku local
 //checks if running locally
 
