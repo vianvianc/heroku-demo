@@ -12,14 +12,7 @@ git push heroku master
 
 //see the deployed app
 heroku open
-
-
-
-
-
-
-
-
+heroku add
 
 heroku local
 //checks if running locally
